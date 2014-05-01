@@ -1,0 +1,110 @@
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                           Requests/sec  Latency (ms)       
+-----------------------------------------------  ------------  -------------------
+https://mobilesoasit.citi.com/test_json_request  10            2952.24 ± 1207.16  
+https://mobilesoasit.citi.com/test_json_request  20            4019.22 ± 1766.41  
+https://mobilesoasit.citi.com/test_json_request  30            5463.62 ± 2555.41  
+https://mobilesoasit.citi.com/test_json_request  40            10644.65 ± 5852.86 
+https://mobilesoasit.citi.com/test_json_request  50            10106.40 ± 4581.97 
+https://mobilesoasit.citi.com/test_json_request  60            7535.23 ± 3606.70  
+https://mobilesoasit.citi.com/test_json_request  70            18090.48 ± 11934.03
+https://mobilesoasit.citi.com/test_json_request  80            9183.71 ± 5441.04  
+https://mobilesoasit.citi.com/test_json_request  90            9555.77 ± 5047.27  
+https://mobilesoasit.citi.com/test_json_request  100           11129.90 ± 5058.66 
+
+Data written to results/output_proxy_ssg_1.json
+path: /Users/admar0829/node_modules/flod
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                           Requests/sec  Latency (ms)       
+-----------------------------------------------  ------------  -------------------
+https://mobilesoasit.citi.com/test_json_request  10            4031.50 ± 2638.09  
+https://mobilesoasit.citi.com/test_json_request  20            8922.50 ± 6566.27  
+https://mobilesoasit.citi.com/test_json_request  30            4340.54 ± 1889.96  
+https://mobilesoasit.citi.com/test_json_request  40            7075.61 ± 4168.83  
+https://mobilesoasit.citi.com/test_json_request  50            8140.63 ± 4005.50  
+https://mobilesoasit.citi.com/test_json_request  60            8134.22 ± 3181.14  
+https://mobilesoasit.citi.com/test_json_request  70            10888.23 ± 4047.77 
+https://mobilesoasit.citi.com/test_json_request  80            12166.91 ± 6044.16 
+https://mobilesoasit.citi.com/test_json_request  90            18016.78 ± 11354.27
+https://mobilesoasit.citi.com/test_json_request  100           15754.63 ± 7271.32 
+
+Data written to results/output_proxy_ssg_2.json
+path: /Users/admar0829/node_modules/flod
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                           Requests/sec  Latency (ms)      
+-----------------------------------------------  ------------  ------------------
+https://mobilesoasit.citi.com/test_json_request  10            3109.71 ± 1526.48 
+https://mobilesoasit.citi.com/test_json_request  20            3488.09 ± 1197.15 
+https://mobilesoasit.citi.com/test_json_request  30            4428.53 ± 1617.59 
+https://mobilesoasit.citi.com/test_json_request  40            8072.07 ± 6199.21 
+https://mobilesoasit.citi.com/test_json_request  50            12161.41 ± 9448.06
+https://mobilesoasit.citi.com/test_json_request  60            7481.50 ± 3351.72 
+https://mobilesoasit.citi.com/test_json_request  70            8123.29 ± 3793.04 
+https://mobilesoasit.citi.com/test_json_request  80            13354.63 ± 8807.93
+https://mobilesoasit.citi.com/test_json_request  90            17855.19 ± 6972.69
+https://mobilesoasit.citi.com/test_json_request  100           14069.23 ± 6881.24
+
+Data written to results/output_proxy_ssg_3.json
+path: /Users/admar0829/node_modules/flod
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+path: /Users/admar0829/node_modules/flod
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                           Requests/sec  Latency (ms)       
+-----------------------------------------------  ------------  -------------------
+https://mobilesoasit.citi.com/test_json_request  10            3712.90 ± 2227.92  
+https://mobilesoasit.citi.com/test_json_request  20            5598.00 ± 2313.94  
+https://mobilesoasit.citi.com/test_json_request  30            6051.17 ± 2875.12  
+https://mobilesoasit.citi.com/test_json_request  40            6509.32 ± 2687.59  
+https://mobilesoasit.citi.com/test_json_request  50            9453.68 ± 4113.84  
+https://mobilesoasit.citi.com/test_json_request  60            12646.43 ± 8847.06 
+https://mobilesoasit.citi.com/test_json_request  70            11703.91 ± 11427.38
+https://mobilesoasit.citi.com/test_json_request  80            15904.90 ± 8319.58 
+https://mobilesoasit.citi.com/test_json_request  90            9866.29 ± 5978.23  
+https://mobilesoasit.citi.com/test_json_request  100           26435.63 ± 9354.99 
+
+Data written to results/output_proxy_ssg_4.json
+path: /Users/admar0829/node_modules/flod
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                           Requests/sec  Latency (ms)      
+-----------------------------------------------  ------------  ------------------
+https://mobilesoasit.citi.com/test_json_request  10            3329.11 ± 1580.79 
+https://mobilesoasit.citi.com/test_json_request  20            8720.05 ± 4795.03 
+https://mobilesoasit.citi.com/test_json_request  30            5999.82 ± 3222.78 
+https://mobilesoasit.citi.com/test_json_request  40            7226.14 ± 4702.45 
+https://mobilesoasit.citi.com/test_json_request  50            7228.87 ± 3121.12 
+https://mobilesoasit.citi.com/test_json_request  60            11078.35 ± 5800.80
+https://mobilesoasit.citi.com/test_json_request  70            10553.85 ± 6117.87
+https://mobilesoasit.citi.com/test_json_request  80            13251.16 ± 9161.65
+https://mobilesoasit.citi.com/test_json_request  90            13266.13 ± 8151.94
+https://mobilesoasit.citi.com/test_json_request  100           17440.22 ± 8824.38
+
+Data written to results/output_proxy_ssg_5.json

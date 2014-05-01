@@ -1,0 +1,103 @@
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                                       Requests/sec  Latency (ms)     
+-----------------------------------------------------------  ------------  -----------------
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  100           3427.09 ± 1751.23
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  200           6503.34 ± 3507.99
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  300           8911.41 ± 5334.16
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  400           n/a              
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  500           n/a              
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  600           n/a              
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  700           n/a              
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  800           n/a              
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  900           n/a              
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  1000          n/a              
+
+Data written to results/output_proxy_1.json
+Errors thrown:
+	Timeout exceeded. https://besnjbbex1001.nam.nsroot.net:4567/test_json_request could not maintain 400 requests per second.
+	Timeout exceeded. https://besnjbbex1001.nam.nsroot.net:4567/test_json_request could not maintain 500 requests per second.
+	Timeout exceeded. https://besnjbbex1001.nam.nsroot.net:4567/test_json_request could not maintain 600 requests per second.
+	Timeout exceeded. https://besnjbbex1001.nam.nsroot.net:4567/test_json_request could not maintain 700 requests per second.
+	Timeout exceeded. https://besnjbbex1001.nam.nsroot.net:4567/test_json_request could not maintain 800 requests per second.
+	Timeout exceeded. https://besnjbbex1001.nam.nsroot.net:4567/test_json_request could not maintain 900 requests per second.
+	Timeout exceeded. https://besnjbbex1001.nam.nsroot.net:4567/test_json_request could not maintain 1000 requests per second.
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                                       Requests/sec  Latency (ms)      
+-----------------------------------------------------------  ------------  ------------------
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  100           3423.55 ± 1755.59 
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  200           5837.81 ± 3426.37 
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  300           8291.32 ± 4860.91 
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  400           10642.70 ± 7229.68
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  500           15540.12 ± 8692.82
+
+Data written to results/output_proxy_2.json
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                                       Requests/sec  Latency (ms)       
+-----------------------------------------------------------  ------------  -------------------
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  100           3414.35 ± 1747.97  
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  200           6427.41 ± 3470.21  
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  300           8957.53 ± 5362.55  
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  400           11297.85 ± 6864.03 
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  500           15529.42 ± 8675.90 
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  600           16108.28 ± 9665.76 
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  700           18087.00 ± 11997.77
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  800           21072.67 ± 14599.24
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  900           25402.83 ± 16665.36
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  1000          30785.80 ± 17403.47
+
+Data written to results/output_proxy_3.json
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                                       Requests/sec  Latency (ms)       
+-----------------------------------------------------------  ------------  -------------------
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  100           3418.59 ± 1745.95  
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  200           6446.61 ± 3490.64  
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  300           8852.24 ± 5299.41  
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  400           11326.41 ± 6880.86 
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  500           15554.60 ± 8716.87 
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  600           16224.61 ± 9738.58 
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  700           18130.39 ± 12017.17
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  800           21043.18 ± 14548.74
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  900           25373.06 ± 16651.36
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  1000          30869.06 ± 17475.51
+
+Data written to results/output_proxy_4.json
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                                       Requests/sec  Latency (ms)       
+-----------------------------------------------------------  ------------  -------------------
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  100           3421.59 ± 1743.79  
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  200           6463.29 ± 3493.99  
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  300           8918.13 ± 5344.95  
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  400           11302.69 ± 6860.01 
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  500           15556.53 ± 8711.10 
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  600           16101.81 ± 9659.82 
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  700           17960.58 ± 11933.88
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  800           21127.53 ± 14603.52
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  900           25386.02 ± 16656.80
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  1000          30590.04 ± 17319.68
+
+Data written to results/output_proxy_5.json

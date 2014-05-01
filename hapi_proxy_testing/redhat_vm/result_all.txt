@@ -1,0 +1,100 @@
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                    Requests/sec  Latency (ms)     
+----------------------------------------  ------------  -----------------
+https://localhost:4567/test_json_request  100           911.12 ± 475.81  
+https://localhost:4567/test_json_request  200           1755.52 ± 952.08 
+https://localhost:4567/test_json_request  300           2446.76 ± 1462.41
+https://localhost:4567/test_json_request  400           3119.65 ± 1889.10
+https://localhost:4567/test_json_request  500           4294.11 ± 2379.24
+https://localhost:4567/test_json_request  600           4455.05 ± 2645.49
+https://localhost:4567/test_json_request  700           4966.37 ± 3285.82
+https://localhost:4567/test_json_request  800           5825.98 ± 3996.25
+https://localhost:4567/test_json_request  900           6988.53 ± 4540.97
+https://localhost:4567/test_json_request  1000          8589.83 ± 4796.35
+
+Data written to results/output_proxy_1.json
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                    Requests/sec  Latency (ms)     
+----------------------------------------  ------------  -----------------
+https://localhost:4567/test_json_request  100           909.49 ± 475.55  
+https://localhost:4567/test_json_request  200           1752.72 ± 953.21 
+https://localhost:4567/test_json_request  300           2428.57 ± 1449.79
+https://localhost:4567/test_json_request  400           3126.20 ± 1887.44
+https://localhost:4567/test_json_request  500           4303.60 ± 2380.59
+https://localhost:4567/test_json_request  600           4467.62 ± 2653.22
+https://localhost:4567/test_json_request  700           4972.77 ± 3271.74
+https://localhost:4567/test_json_request  800           5802.41 ± 3986.09
+https://localhost:4567/test_json_request  900           6981.39 ± 4533.74
+https://localhost:4567/test_json_request  1000          8505.58 ± 4739.25
+
+Data written to results/output_proxy_2.json
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                    Requests/sec  Latency (ms)     
+----------------------------------------  ------------  -----------------
+https://localhost:4567/test_json_request  100           908.82 ± 475.04  
+https://localhost:4567/test_json_request  200           1753.03 ± 951.51 
+https://localhost:4567/test_json_request  300           2437.70 ± 1452.20
+https://localhost:4567/test_json_request  400           3111.38 ± 1893.63
+https://localhost:4567/test_json_request  500           4289.44 ± 2375.46
+https://localhost:4567/test_json_request  600           4444.01 ± 2636.46
+https://localhost:4567/test_json_request  700           4976.45 ± 3287.46
+https://localhost:4567/test_json_request  800           5805.31 ± 3990.43
+https://localhost:4567/test_json_request  900           7001.84 ± 4539.46
+https://localhost:4567/test_json_request  1000          8530.43 ± 4746.87
+
+Data written to results/output_proxy_3.json
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                    Requests/sec  Latency (ms)     
+----------------------------------------  ------------  -----------------
+https://localhost:4567/test_json_request  100           909.46 ± 475.83  
+https://localhost:4567/test_json_request  200           1752.43 ± 950.96 
+https://localhost:4567/test_json_request  300           2437.43 ± 1447.70
+https://localhost:4567/test_json_request  400           3116.81 ± 1887.40
+https://localhost:4567/test_json_request  500           4299.68 ± 2380.28
+https://localhost:4567/test_json_request  600           4436.31 ± 2649.61
+https://localhost:4567/test_json_request  700           5000.73 ± 3294.39
+https://localhost:4567/test_json_request  800           5811.46 ± 3978.36
+https://localhost:4567/test_json_request  900           6978.81 ± 4524.32
+https://localhost:4567/test_json_request  1000          8537.65 ± 4750.01
+
+Data written to results/output_proxy_4.json
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                    Requests/sec  Latency (ms)     
+----------------------------------------  ------------  -----------------
+https://localhost:4567/test_json_request  100           912.70 ± 477.00  
+https://localhost:4567/test_json_request  200           1754.26 ± 953.54 
+https://localhost:4567/test_json_request  300           2436.03 ± 1448.35
+https://localhost:4567/test_json_request  400           3093.83 ± 1874.27
+https://localhost:4567/test_json_request  500           4297.14 ± 2370.32
+https://localhost:4567/test_json_request  600           4445.66 ± 2641.65
+https://localhost:4567/test_json_request  700           4966.91 ± 3290.03
+https://localhost:4567/test_json_request  800           5793.59 ± 3976.68
+https://localhost:4567/test_json_request  900           7015.36 ± 4563.61
+https://localhost:4567/test_json_request  1000          8480.37 ± 4737.39
+
+Data written to results/output_proxy_5.json

@@ -1,0 +1,15 @@
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                                       Requests/sec  Latency (ms)  
+-----------------------------------------------------------  ------------  --------------
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  1             505.60 ± 8.91 
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  2             503.00 ± 9.49 
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  3             510.00 ± 10.58
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  4             511.40 ± 14.79
+https://besnjbbex1001.nam.nsroot.net:4567/test_json_request  5             518.40 ± 11.52
+
+Data written to results/output_proxy_simple.json

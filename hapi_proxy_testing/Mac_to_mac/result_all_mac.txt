@@ -1,0 +1,100 @@
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                           Requests/sec  Latency (ms)    
+-----------------------------------------------  ------------  ----------------
+https://Mac-mini-1.local:4567/test_json_request  100           268.55 ± 106.39 
+https://Mac-mini-1.local:4567/test_json_request  200           430.27 ± 181.70 
+https://Mac-mini-1.local:4567/test_json_request  300           609.07 ± 300.55 
+https://Mac-mini-1.local:4567/test_json_request  400           766.58 ± 361.08 
+https://Mac-mini-1.local:4567/test_json_request  500           1033.94 ± 435.86
+https://Mac-mini-1.local:4567/test_json_request  600           1030.04 ± 494.07
+https://Mac-mini-1.local:4567/test_json_request  700           1140.84 ± 635.60
+https://Mac-mini-1.local:4567/test_json_request  800           1410.75 ± 829.46
+https://Mac-mini-1.local:4567/test_json_request  900           1642.89 ± 910.87
+https://Mac-mini-1.local:4567/test_json_request  1000          1970.55 ± 836.64
+
+Data written to results/output_proxy_1.json
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                           Requests/sec  Latency (ms)    
+-----------------------------------------------  ------------  ----------------
+https://Mac-mini-1.local:4567/test_json_request  100           231.15 ± 88.91  
+https://Mac-mini-1.local:4567/test_json_request  200           412.31 ± 177.38 
+https://Mac-mini-1.local:4567/test_json_request  300           570.88 ± 272.54 
+https://Mac-mini-1.local:4567/test_json_request  400           713.54 ± 359.25 
+https://Mac-mini-1.local:4567/test_json_request  500           1004.60 ± 439.52
+https://Mac-mini-1.local:4567/test_json_request  600           1063.20 ± 481.72
+https://Mac-mini-1.local:4567/test_json_request  700           1139.42 ± 633.90
+https://Mac-mini-1.local:4567/test_json_request  800           1293.56 ± 774.27
+https://Mac-mini-1.local:4567/test_json_request  900           1625.81 ± 865.94
+https://Mac-mini-1.local:4567/test_json_request  1000          1953.15 ± 841.94
+
+Data written to results/output_proxy_2.json
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                           Requests/sec  Latency (ms)    
+-----------------------------------------------  ------------  ----------------
+https://Mac-mini-1.local:4567/test_json_request  100           233.59 ± 88.37  
+https://Mac-mini-1.local:4567/test_json_request  200           436.36 ± 182.64 
+https://Mac-mini-1.local:4567/test_json_request  300           569.24 ± 286.48 
+https://Mac-mini-1.local:4567/test_json_request  400           717.96 ± 348.74 
+https://Mac-mini-1.local:4567/test_json_request  500           954.99 ± 422.57 
+https://Mac-mini-1.local:4567/test_json_request  600           1061.28 ± 492.63
+https://Mac-mini-1.local:4567/test_json_request  700           1181.45 ± 668.62
+https://Mac-mini-1.local:4567/test_json_request  800           1351.23 ± 753.88
+https://Mac-mini-1.local:4567/test_json_request  900           1606.87 ± 861.25
+https://Mac-mini-1.local:4567/test_json_request  1000          2053.32 ± 847.06
+
+Data written to results/output_proxy_3.json
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                           Requests/sec  Latency (ms)    
+-----------------------------------------------  ------------  ----------------
+https://Mac-mini-1.local:4567/test_json_request  100           235.12 ± 90.15  
+https://Mac-mini-1.local:4567/test_json_request  200           418.79 ± 175.16 
+https://Mac-mini-1.local:4567/test_json_request  300           613.74 ± 270.90 
+https://Mac-mini-1.local:4567/test_json_request  400           706.21 ± 339.71 
+https://Mac-mini-1.local:4567/test_json_request  500           1021.95 ± 443.85
+https://Mac-mini-1.local:4567/test_json_request  600           1022.03 ± 467.55
+https://Mac-mini-1.local:4567/test_json_request  700           1147.08 ± 602.03
+https://Mac-mini-1.local:4567/test_json_request  800           1339.69 ± 794.58
+https://Mac-mini-1.local:4567/test_json_request  900           1602.60 ± 861.77
+https://Mac-mini-1.local:4567/test_json_request  1000          2018.95 ± 843.81
+
+Data written to results/output_proxy_4.json
+This is Flod, version 0.2.2
+Copyright 2013 Walmart, http://github.com/spumko/flod
+
+Benchmarking (hold on)...
+
+overriding printResults
+Server                                           Requests/sec  Latency (ms)    
+-----------------------------------------------  ------------  ----------------
+https://Mac-mini-1.local:4567/test_json_request  100           230.81 ± 85.42  
+https://Mac-mini-1.local:4567/test_json_request  200           419.66 ± 171.16 
+https://Mac-mini-1.local:4567/test_json_request  300           550.58 ± 255.29 
+https://Mac-mini-1.local:4567/test_json_request  400           708.50 ± 356.42 
+https://Mac-mini-1.local:4567/test_json_request  500           977.61 ± 410.81 
+https://Mac-mini-1.local:4567/test_json_request  600           1009.37 ± 516.35
+https://Mac-mini-1.local:4567/test_json_request  700           1173.79 ± 614.23
+https://Mac-mini-1.local:4567/test_json_request  800           1326.06 ± 761.11
+https://Mac-mini-1.local:4567/test_json_request  900           1599.98 ± 880.89
+https://Mac-mini-1.local:4567/test_json_request  1000          1973.82 ± 840.23
+
+Data written to results/output_proxy_5.json
